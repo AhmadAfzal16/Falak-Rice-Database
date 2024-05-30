@@ -1,0 +1,131 @@
+C:\Users\Laptop point\source\repos\Orders\Orders\obj\Debug\net8.0-windows\SalesManagementApp.MainForm.resources
+C:\Users\Laptop point\source\repos\Orders\Orders\obj\Debug\net8.0-windows\Orders.csproj.GenerateResource.cache
+C:\Users\Laptop point\source\repos\Orders\Orders\obj\Debug\net8.0-windows\Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop point\source\repos\Orders\Orders\obj\Debug\net8.0-windows\Orders.AssemblyInfoInputs.cache
+C:\Users\Laptop point\source\repos\Orders\Orders\obj\Debug\net8.0-windows\Orders.AssemblyInfo.cs
+C:\Users\Laptop point\source\repos\Orders\Orders\obj\Debug\net8.0-windows\Orders.csproj.CoreCompileInputs.cache
+C:\Users\Laptop point\source\repos\Orders\Orders\bin\Debug\net8.0-windows\Orders.exe
+C:\Users\Laptop point\source\repos\Orders\Orders\bin\Debug\net8.0-windows\Orders.deps.json
+C:\Users\Laptop point\source\repos\Orders\Orders\bin\Debug\net8.0-windows\Orders.runtimeconfig.json
+C:\Users\Laptop point\source\repos\Orders\Orders\bin\Debug\net8.0-windows\Orders.dll
+C:\Users\Laptop point\source\repos\Orders\Orders\bin\Debug\net8.0-windows\Orders.pdb
+C:\Users\Laptop point\source\repos\Orders\Orders\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+C:\Users\Laptop point\source\repos\Orders\Orders\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\Laptop point\source\repos\Orders\Orders\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\Laptop point\source\repos\Orders\Orders\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Laptop point\source\repos\Orders\Orders\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\Laptop point\source\repos\Orders\Orders\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\Laptop point\source\repos\Orders\Orders\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Laptop point\source\repos\Orders\Orders\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Laptop point\source\repos\Orders\Orders\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\Laptop point\source\repos\Orders\Orders\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\Laptop point\source\repos\Orders\Orders\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Laptop point\source\repos\Orders\Orders\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Laptop point\source\repos\Orders\Orders\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Laptop point\source\repos\Orders\Orders\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Laptop point\source\repos\Orders\Orders\obj\Debug\net8.0-windows\Orders.csproj.AssemblyReference.cache
+C:\Users\Laptop point\source\repos\Orders\Orders\obj\Debug\net8.0-windows\Orders.csproj.Up2Date
+C:\Users\Laptop point\source\repos\Orders\Orders\obj\Debug\net8.0-windows\Orders.dll
+C:\Users\Laptop point\source\repos\Orders\Orders\obj\Debug\net8.0-windows\refint\Orders.dll
+C:\Users\Laptop point\source\repos\Orders\Orders\obj\Debug\net8.0-windows\Orders.pdb
+C:\Users\Laptop point\source\repos\Orders\Orders\obj\Debug\net8.0-windows\Orders.genruntimeconfig.cache
+C:\Users\Laptop point\source\repos\Orders\Orders\obj\Debug\net8.0-windows\ref\Orders.dll
+C:\Users\iamum\Desktop\Orders\Orders\bin\Debug\net8.0-windows\Orders.exe
+C:\Users\iamum\Desktop\Orders\Orders\bin\Debug\net8.0-windows\Orders.deps.json
+C:\Users\iamum\Desktop\Orders\Orders\bin\Debug\net8.0-windows\Orders.runtimeconfig.json
+C:\Users\iamum\Desktop\Orders\Orders\bin\Debug\net8.0-windows\Orders.dll
+C:\Users\iamum\Desktop\Orders\Orders\bin\Debug\net8.0-windows\Orders.pdb
+C:\Users\iamum\Desktop\Orders\Orders\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+C:\Users\iamum\Desktop\Orders\Orders\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\iamum\Desktop\Orders\Orders\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\iamum\Desktop\Orders\Orders\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\iamum\Desktop\Orders\Orders\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\iamum\Desktop\Orders\Orders\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\iamum\Desktop\Orders\Orders\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+C:\Users\iamum\Desktop\Orders\Orders\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\iamum\Desktop\Orders\Orders\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\iamum\Desktop\Orders\Orders\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\iamum\Desktop\Orders\Orders\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\iamum\Desktop\Orders\Orders\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\iamum\Desktop\Orders\Orders\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\iamum\Desktop\Orders\Orders\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\iamum\Desktop\Orders\Orders\obj\Debug\net8.0-windows\Orders.csproj.AssemblyReference.cache
+C:\Users\iamum\Desktop\Orders\Orders\obj\Debug\net8.0-windows\SalesManagementApp.MainForm.resources
+C:\Users\iamum\Desktop\Orders\Orders\obj\Debug\net8.0-windows\Orders.csproj.GenerateResource.cache
+C:\Users\iamum\Desktop\Orders\Orders\obj\Debug\net8.0-windows\Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamum\Desktop\Orders\Orders\obj\Debug\net8.0-windows\Orders.AssemblyInfoInputs.cache
+C:\Users\iamum\Desktop\Orders\Orders\obj\Debug\net8.0-windows\Orders.AssemblyInfo.cs
+C:\Users\iamum\Desktop\Orders\Orders\obj\Debug\net8.0-windows\Orders.csproj.CoreCompileInputs.cache
+C:\Users\iamum\Desktop\Orders\Orders\obj\Debug\net8.0-windows\Orders.csproj.CopyComplete
+C:\Users\iamum\Desktop\Orders\Orders\obj\Debug\net8.0-windows\Orders.dll
+C:\Users\iamum\Desktop\Orders\Orders\obj\Debug\net8.0-windows\refint\Orders.dll
+C:\Users\iamum\Desktop\Orders\Orders\obj\Debug\net8.0-windows\Orders.pdb
+C:\Users\iamum\Desktop\Orders\Orders\obj\Debug\net8.0-windows\Orders.genruntimeconfig.cache
+C:\Users\iamum\Desktop\Orders\Orders\obj\Debug\net8.0-windows\ref\Orders.dll
+C:\Users\iamum\Desktop\Orders\Orders\obj\Debug\net8.0-windows\Orders.Properties.Resources.resources
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\Orders.exe
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\Orders.deps.json
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\Orders.runtimeconfig.json
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\Orders.dll
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\Orders.pdb
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.csproj.AssemblyReference.cache
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\SalesManagementApp.MainForm.resources
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.Properties.Resources.resources
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.csproj.GenerateResource.cache
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.AssemblyInfoInputs.cache
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.AssemblyInfo.cs
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.csproj.CoreCompileInputs.cache
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.csproj.CopyComplete
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.dll
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\refint\Orders.dll
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.pdb
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.genruntimeconfig.cache
+C:\Users\iamum\Desktop\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\ref\Orders.dll
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\Orders.exe
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\Orders.deps.json
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\Orders.runtimeconfig.json
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\Orders.dll
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\Orders.pdb
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.csproj.AssemblyReference.cache
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\SalesManagementApp.MainForm.resources
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.Properties.Resources.resources
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.csproj.GenerateResource.cache
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.AssemblyInfoInputs.cache
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.AssemblyInfo.cs
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.csproj.CoreCompileInputs.cache
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.csproj.Up2Date
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.dll
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\refint\Orders.dll
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.pdb
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\Orders.genruntimeconfig.cache
+C:\Users\Laptop point\Downloads\Falak Rice\Orders\Orders\obj\Debug\net8.0-windows\ref\Orders.dll

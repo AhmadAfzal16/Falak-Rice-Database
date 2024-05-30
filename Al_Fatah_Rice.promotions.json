@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6649d8629abbaa3c6f8b3a9e"
+  },
+  "promotionId": "PR001",
+  "name": "Spring Sale",
+  "description": "10% off on all rice products",
+  "discountAmountOrPercentage": "10%",
+  "startDate": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-05-31T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6649d8629abbaa3c6f8b3a9f"
+  },
+  "promotionId": "PR002",
+  "name": "Holiday Discount",
+  "description": "15% off on orders over $100",
+  "discountAmountOrPercentage": "15%",
+  "startDate": {
+    "$date": "2024-12-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-12-31T00:00:00.000Z"
+  }
+}]

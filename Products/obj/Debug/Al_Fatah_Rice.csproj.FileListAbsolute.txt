@@ -1,0 +1,106 @@
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\mongocrypt.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\Al_Fatah_Rice.exe.config
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\Al_Fatah_Rice.exe
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\Al_Fatah_Rice.pdb
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\AWSSDK.Core.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\DnsClient.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\MongoDB.Bson.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\MongoDB.Driver.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\SharpCompress.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\Snappier.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\System.Buffers.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\System.Memory.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\System.Security.AccessControl.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\ZstdSharp.dll
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\AWSSDK.Core.pdb
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\AWSSDK.Core.xml
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\DnsClient.xml
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\MongoDB.Bson.xml
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\MongoDB.Driver.xml
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\Snappier.xml
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\System.Buffers.xml
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\System.Memory.xml
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\System.Security.AccessControl.xml
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\iamum\source\repos\Al_Fatah_Rice\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\iamum\source\repos\Al_Fatah_Rice\obj\Debug\Al_Fatah_Rice.csproj.AssemblyReference.cache
+C:\Users\iamum\source\repos\Al_Fatah_Rice\obj\Debug\SalesManagementApp.MainForm.resources
+C:\Users\iamum\source\repos\Al_Fatah_Rice\obj\Debug\Al_Fatah_Rice.Properties.Resources.resources
+C:\Users\iamum\source\repos\Al_Fatah_Rice\obj\Debug\Al_Fatah_Rice.csproj.GenerateResource.cache
+C:\Users\iamum\source\repos\Al_Fatah_Rice\obj\Debug\Al_Fatah_Rice.csproj.CoreCompileInputs.cache
+C:\Users\iamum\source\repos\Al_Fatah_Rice\obj\Debug\Al_Fatah_Rice.csproj.CopyComplete
+C:\Users\iamum\source\repos\Al_Fatah_Rice\obj\Debug\Al_Fatah_Rice.exe
+C:\Users\iamum\source\repos\Al_Fatah_Rice\obj\Debug\Al_Fatah_Rice.pdb
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\mongocrypt.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\Al_Fatah_Rice.exe.config
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\Al_Fatah_Rice.exe
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\Al_Fatah_Rice.pdb
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\AWSSDK.Core.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\DnsClient.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\MongoDB.Bson.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\MongoDB.Driver.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\SharpCompress.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\Snappier.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\System.Buffers.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\System.Memory.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\ZstdSharp.dll
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\AWSSDK.Core.xml
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\DnsClient.xml
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\MongoDB.Bson.xml
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\MongoDB.Driver.xml
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\Snappier.xml
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\System.Buffers.xml
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\System.Memory.xml
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\obj\Debug\Al_Fatah_Rice.csproj.AssemblyReference.cache
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\obj\Debug\SalesManagementApp.MainForm.resources
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\obj\Debug\Al_Fatah_Rice.Properties.Resources.resources
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\obj\Debug\Al_Fatah_Rice.csproj.GenerateResource.cache
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\obj\Debug\Al_Fatah_Rice.csproj.CoreCompileInputs.cache
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\obj\Debug\Al_Fatah.8319A996.Up2Date
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\obj\Debug\Al_Fatah_Rice.exe
+C:\Users\Laptop point\Downloads\Al_Fatah_Rice\obj\Debug\Al_Fatah_Rice.pdb

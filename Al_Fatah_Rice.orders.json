@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6649d4d29abbaa3c6f8b3a90"
+  },
+  "orderId": "O001",
+  "customerId": "C001",
+  "orderDate": {
+    "$date": "2024-05-19T10:30:42.556Z"
+  },
+  "totalAmount": 59.98,
+  "status": "processing"
+},
+{
+  "_id": {
+    "$oid": "6649d4d29abbaa3c6f8b3a91"
+  },
+  "orderId": "O002",
+  "customerId": "C002",
+  "orderDate": {
+    "$date": "2024-05-19T10:30:42.556Z"
+  },
+  "totalAmount": 49.98,
+  "status": "shipped"
+}]

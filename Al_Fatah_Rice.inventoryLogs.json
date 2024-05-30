@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6649d8a09abbaa3c6f8b3aa0"
+  },
+  "logId": "IL001",
+  "productId": "P001",
+  "action": "stock in",
+  "quantity": 50,
+  "timestamp": {
+    "$date": "2024-05-19T10:46:56.959Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6649d8a09abbaa3c6f8b3aa1"
+  },
+  "logId": "IL002",
+  "productId": "P002",
+  "action": "stock out",
+  "quantity": 30,
+  "timestamp": {
+    "$date": "2024-05-19T10:46:56.959Z"
+  }
+}]

@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6649d8149abbaa3c6f8b3a98"
+  },
+  "paymentId": "PY001",
+  "orderId": "O001",
+  "paymentDate": {
+    "$date": "2024-05-19T10:44:36.233Z"
+  },
+  "amount": 59.98,
+  "paymentMethod": "Credit Card",
+  "paymentStatus": "completed"
+},
+{
+  "_id": {
+    "$oid": "6649d8149abbaa3c6f8b3a99"
+  },
+  "paymentId": "PY002",
+  "orderId": "O002",
+  "paymentDate": {
+    "$date": "2024-05-19T10:44:36.233Z"
+  },
+  "amount": 49.98,
+  "paymentMethod": "PayPal",
+  "paymentStatus": "completed"
+}]

@@ -1,0 +1,131 @@
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.exe
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.deps.json
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.runtimeconfig.json
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.dll
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.pdb
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\SalesManagementApp.MainForm.resources
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.AssemblyInfo.cs
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinForms.C2FE0A35.Up2Date
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.dll
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\refint\WinFormsApp4.dll
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.pdb
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.genruntimeconfig.cache
+C:\Users\Laptop point\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\ref\WinFormsApp4.dll
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.exe
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.deps.json
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.runtimeconfig.json
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.dll
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.pdb
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\SalesManagementApp.MainForm.resources
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.AssemblyInfo.cs
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.CopyComplete
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.dll
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\refint\WinFormsApp4.dll
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.pdb
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.genruntimeconfig.cache
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\ref\WinFormsApp4.dll
+C:\Users\iamum\Desktop\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.Properties.Resources.resources
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.exe
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.deps.json
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.runtimeconfig.json
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.dll
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.pdb
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\SalesManagementApp.MainForm.resources
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.Properties.Resources.resources
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.AssemblyInfo.cs
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.CopyComplete
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.dll
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\refint\WinFormsApp4.dll
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.pdb
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.genruntimeconfig.cache
+C:\Users\iamum\Desktop\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\ref\WinFormsApp4.dll
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.exe
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.deps.json
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.runtimeconfig.json
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.dll
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.pdb
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\SalesManagementApp.MainForm.resources
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.Properties.Resources.resources
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.AssemblyInfo.cs
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinForms.C2FE0A35.Up2Date
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.dll
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\refint\WinFormsApp4.dll
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.pdb
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.genruntimeconfig.cache
+C:\Users\Laptop point\Downloads\Falak Rice\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\ref\WinFormsApp4.dll

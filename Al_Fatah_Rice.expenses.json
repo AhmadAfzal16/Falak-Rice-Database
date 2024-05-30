@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6649d8299abbaa3c6f8b3a9a"
+  },
+  "expenseId": "E001",
+  "description": "Store Rent",
+  "amount": 2000,
+  "date": {
+    "$date": "2024-05-19T10:44:57.983Z"
+  },
+  "category": "rent"
+},
+{
+  "_id": {
+    "$oid": "6649d8299abbaa3c6f8b3a9b"
+  },
+  "expenseId": "E002",
+  "description": "Utilities",
+  "amount": 300,
+  "date": {
+    "$date": "2024-05-19T10:44:57.983Z"
+  },
+  "category": "utilities"
+}]

@@ -1,0 +1,98 @@
+C:\Users\Laptop point\source\repos\inventory\inventory\bin\Debug\net8.0-windows\inventory.exe
+C:\Users\Laptop point\source\repos\inventory\inventory\bin\Debug\net8.0-windows\inventory.deps.json
+C:\Users\Laptop point\source\repos\inventory\inventory\bin\Debug\net8.0-windows\inventory.runtimeconfig.json
+C:\Users\Laptop point\source\repos\inventory\inventory\bin\Debug\net8.0-windows\inventory.dll
+C:\Users\Laptop point\source\repos\inventory\inventory\bin\Debug\net8.0-windows\inventory.pdb
+C:\Users\Laptop point\source\repos\inventory\inventory\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+C:\Users\Laptop point\source\repos\inventory\inventory\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\Laptop point\source\repos\inventory\inventory\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\Laptop point\source\repos\inventory\inventory\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Laptop point\source\repos\inventory\inventory\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\Laptop point\source\repos\inventory\inventory\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\Laptop point\source\repos\inventory\inventory\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Laptop point\source\repos\inventory\inventory\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Laptop point\source\repos\inventory\inventory\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\Laptop point\source\repos\inventory\inventory\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\Laptop point\source\repos\inventory\inventory\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Laptop point\source\repos\inventory\inventory\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Laptop point\source\repos\inventory\inventory\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Laptop point\source\repos\inventory\inventory\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Laptop point\source\repos\inventory\inventory\obj\Debug\net8.0-windows\inventory.csproj.AssemblyReference.cache
+C:\Users\Laptop point\source\repos\inventory\inventory\obj\Debug\net8.0-windows\InventoryManagementApp.MainForm.resources
+C:\Users\Laptop point\source\repos\inventory\inventory\obj\Debug\net8.0-windows\inventory.csproj.GenerateResource.cache
+C:\Users\Laptop point\source\repos\inventory\inventory\obj\Debug\net8.0-windows\inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop point\source\repos\inventory\inventory\obj\Debug\net8.0-windows\inventory.AssemblyInfoInputs.cache
+C:\Users\Laptop point\source\repos\inventory\inventory\obj\Debug\net8.0-windows\inventory.AssemblyInfo.cs
+C:\Users\Laptop point\source\repos\inventory\inventory\obj\Debug\net8.0-windows\inventory.csproj.CoreCompileInputs.cache
+C:\Users\Laptop point\source\repos\inventory\inventory\obj\Debug\net8.0-windows\inventory.csproj.Up2Date
+C:\Users\Laptop point\source\repos\inventory\inventory\obj\Debug\net8.0-windows\inventory.dll
+C:\Users\Laptop point\source\repos\inventory\inventory\obj\Debug\net8.0-windows\refint\inventory.dll
+C:\Users\Laptop point\source\repos\inventory\inventory\obj\Debug\net8.0-windows\inventory.pdb
+C:\Users\Laptop point\source\repos\inventory\inventory\obj\Debug\net8.0-windows\inventory.genruntimeconfig.cache
+C:\Users\Laptop point\source\repos\inventory\inventory\obj\Debug\net8.0-windows\ref\inventory.dll
+C:\Users\iamum\Desktop\inventory\inventory\bin\Debug\net8.0-windows\inventory.exe
+C:\Users\iamum\Desktop\inventory\inventory\bin\Debug\net8.0-windows\inventory.deps.json
+C:\Users\iamum\Desktop\inventory\inventory\bin\Debug\net8.0-windows\inventory.runtimeconfig.json
+C:\Users\iamum\Desktop\inventory\inventory\bin\Debug\net8.0-windows\inventory.dll
+C:\Users\iamum\Desktop\inventory\inventory\bin\Debug\net8.0-windows\inventory.pdb
+C:\Users\iamum\Desktop\inventory\inventory\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+C:\Users\iamum\Desktop\inventory\inventory\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\iamum\Desktop\inventory\inventory\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\iamum\Desktop\inventory\inventory\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\iamum\Desktop\inventory\inventory\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\iamum\Desktop\inventory\inventory\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\iamum\Desktop\inventory\inventory\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+C:\Users\iamum\Desktop\inventory\inventory\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\iamum\Desktop\inventory\inventory\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\iamum\Desktop\inventory\inventory\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\iamum\Desktop\inventory\inventory\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\iamum\Desktop\inventory\inventory\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\iamum\Desktop\inventory\inventory\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\iamum\Desktop\inventory\inventory\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\iamum\Desktop\inventory\inventory\obj\Debug\net8.0-windows\inventory.csproj.AssemblyReference.cache
+C:\Users\iamum\Desktop\inventory\inventory\obj\Debug\net8.0-windows\InventoryManagementApp.MainForm.resources
+C:\Users\iamum\Desktop\inventory\inventory\obj\Debug\net8.0-windows\inventory.csproj.GenerateResource.cache
+C:\Users\iamum\Desktop\inventory\inventory\obj\Debug\net8.0-windows\inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamum\Desktop\inventory\inventory\obj\Debug\net8.0-windows\inventory.AssemblyInfoInputs.cache
+C:\Users\iamum\Desktop\inventory\inventory\obj\Debug\net8.0-windows\inventory.AssemblyInfo.cs
+C:\Users\iamum\Desktop\inventory\inventory\obj\Debug\net8.0-windows\inventory.csproj.CoreCompileInputs.cache
+C:\Users\iamum\Desktop\inventory\inventory\obj\Debug\net8.0-windows\inventory.csproj.CopyComplete
+C:\Users\iamum\Desktop\inventory\inventory\obj\Debug\net8.0-windows\inventory.dll
+C:\Users\iamum\Desktop\inventory\inventory\obj\Debug\net8.0-windows\refint\inventory.dll
+C:\Users\iamum\Desktop\inventory\inventory\obj\Debug\net8.0-windows\inventory.pdb
+C:\Users\iamum\Desktop\inventory\inventory\obj\Debug\net8.0-windows\inventory.genruntimeconfig.cache
+C:\Users\iamum\Desktop\inventory\inventory\obj\Debug\net8.0-windows\ref\inventory.dll
+C:\Users\iamum\Desktop\inventory\inventory\obj\Debug\net8.0-windows\inventory.Properties.Resources.resources
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\bin\Debug\net8.0-windows\inventory.exe
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\bin\Debug\net8.0-windows\inventory.deps.json
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\bin\Debug\net8.0-windows\inventory.runtimeconfig.json
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\bin\Debug\net8.0-windows\inventory.dll
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\bin\Debug\net8.0-windows\inventory.pdb
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\obj\Debug\net8.0-windows\inventory.csproj.AssemblyReference.cache
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\obj\Debug\net8.0-windows\InventoryManagementApp.MainForm.resources
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\obj\Debug\net8.0-windows\inventory.Properties.Resources.resources
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\obj\Debug\net8.0-windows\inventory.csproj.GenerateResource.cache
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\obj\Debug\net8.0-windows\inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\obj\Debug\net8.0-windows\inventory.AssemblyInfoInputs.cache
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\obj\Debug\net8.0-windows\inventory.AssemblyInfo.cs
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\obj\Debug\net8.0-windows\inventory.csproj.CoreCompileInputs.cache
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\obj\Debug\net8.0-windows\inventory.csproj.Up2Date
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\obj\Debug\net8.0-windows\inventory.dll
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\obj\Debug\net8.0-windows\refint\inventory.dll
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\obj\Debug\net8.0-windows\inventory.pdb
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\obj\Debug\net8.0-windows\inventory.genruntimeconfig.cache
+C:\Users\Laptop point\Downloads\Falak Rice\inventory\inventory\obj\Debug\net8.0-windows\ref\inventory.dll

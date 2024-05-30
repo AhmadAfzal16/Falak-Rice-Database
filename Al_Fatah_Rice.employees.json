@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6649d9249abbaa3c6f8b3aa2"
+  },
+  "employeeId": "E001",
+  "name": "Ali Ansar",
+  "position": "Manager",
+  "contactNumber": "5551234567",
+  "emailAddress": "AliAnsar@example.com",
+  "dateOfJoining": {
+    "$date": "2022-01-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6649d9249abbaa3c6f8b3aa3"
+  },
+  "employeeId": "E002",
+  "name": "Ali Raza",
+  "position": "Sales Associate",
+  "contactNumber": "5559876543",
+  "emailAddress": "ali.raza@example.com",
+  "dateOfJoining": {
+    "$date": "2023-03-10T00:00:00.000Z"
+  }
+}]

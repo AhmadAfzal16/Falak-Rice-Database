@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6649d4ed9abbaa3c6f8b3a92"
+  },
+  "orderItemId": "OI001",
+  "orderId": "O001",
+  "productId": "P001",
+  "quantity": 2,
+  "unitPrice": 29.99,
+  "totalPrice": 59.98
+},
+{
+  "_id": {
+    "$oid": "6649d4ed9abbaa3c6f8b3a93"
+  },
+  "orderItemId": "OI002",
+  "orderId": "O002",
+  "productId": "P002",
+  "quantity": 2,
+  "unitPrice": 24.99,
+  "totalPrice": 49.98
+}]

@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6649d8479abbaa3c6f8b3a9c"
+  },
+  "feedbackId": "FB001",
+  "customerId": "C001",
+  "orderId": "O001",
+  "feedbackMessage": "Great quality rice!",
+  "rating": 5,
+  "dateSubmitted": {
+    "$date": "2024-05-19T10:45:27.077Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6649d8479abbaa3c6f8b3a9d"
+  },
+  "feedbackId": "FB002",
+  "customerId": "C002",
+  "orderId": "O002",
+  "feedbackMessage": "Fast delivery!",
+  "rating": 4,
+  "dateSubmitted": {
+    "$date": "2024-05-19T10:45:27.077Z"
+  }
+}]

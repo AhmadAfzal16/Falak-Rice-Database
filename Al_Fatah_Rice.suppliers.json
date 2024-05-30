@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "6649d7149abbaa3c6f8b3a95"
+  },
+  "supplierId": "S002",
+  "name": "Rice Supplier 2",
+  "contactNumber": "3216549870",
+  "emailAddress": "supplierB@example.com",
+  "address": "123 street, Lahore, Pakistan"
+}]

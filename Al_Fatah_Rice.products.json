@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6649d4209abbaa3c6f8b3a8c"
+  },
+  "productId": "P001",
+  "name": "Basmati Rice",
+  "description": "Premium long-grain Basmati rice.",
+  "price": 29.99,
+  "quantityInStock": 200,
+  "supplierId": "S001",
+  "dateAddedUpdated": {
+    "$date": "2024-05-19T10:27:44.777Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6649d4209abbaa3c6f8b3a8d"
+  },
+  "productId": "P002",
+  "name": "Kainat Rice",
+  "description": "Premium Long grain Kainat Rice",
+  "price": 24.99,
+  "quantityInStock": 150,
+  "supplierId": "S002",
+  "dateAddedUpdated": {
+    "$date": "2024-05-19T10:27:44.777Z"
+  }
+}]

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laptop point\\Downloads\\Falak Rice\\WinFormsApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5989531-AE40-405F-A542-36B2ABCFED88}|WinFormsApp4\\WinFormsApp4.csproj|c:\\users\\laptop point\\downloads\\falak rice\\winformsapp4\\winformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5989531-AE40-405F-A542-36B2ABCFED88}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5989531-AE40-405F-A542-36B2ABCFED88}|WinFormsApp4\\WinFormsApp4.csproj|c:\\users\\laptop point\\downloads\\falak rice\\winformsapp4\\winformsapp4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5989531-AE40-405F-A542-36B2ABCFED88}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5989531-AE40-405F-A542-36B2ABCFED88}|WinFormsApp4\\WinFormsApp4.csproj|c:\\users\\laptop point\\downloads\\falak rice\\winformsapp4\\winformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5989531-AE40-405F-A542-36B2ABCFED88}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5989531-AE40-405F-A542-36B2ABCFED88}|WinFormsApp4\\WinFormsApp4.csproj|c:\\users\\laptop point\\downloads\\falak rice\\winformsapp4\\winformsapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5989531-AE40-405F-A542-36B2ABCFED88}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop point\\Downloads\\Falak Rice\\WinFormsApp4\\WinFormsApp4\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\Program.cs",
+              "ToolTip": "C:\\Users\\Laptop point\\Downloads\\Falak Rice\\WinFormsApp4\\WinFormsApp4\\Program.cs",
+              "RelativeToolTip": "WinFormsApp4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:28:30.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop point\\Downloads\\Falak Rice\\WinFormsApp4\\WinFormsApp4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Laptop point\\Downloads\\Falak Rice\\WinFormsApp4\\WinFormsApp4\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp4\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIcBAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:28:30.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop point\\Downloads\\Falak Rice\\WinFormsApp4\\WinFormsApp4\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\Form1.cs",
+              "ToolTip": "C:\\Users\\Laptop point\\Downloads\\Falak Rice\\WinFormsApp4\\WinFormsApp4\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp4\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:28:30.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop point\\Downloads\\Falak Rice\\WinFormsApp4\\WinFormsApp4\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\Form1.cs",
+              "ToolTip": "C:\\Users\\Laptop point\\Downloads\\Falak Rice\\WinFormsApp4\\WinFormsApp4\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:28:32.031Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

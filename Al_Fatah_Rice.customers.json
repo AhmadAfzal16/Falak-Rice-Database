@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6649d4839abbaa3c6f8b3a8e"
+  },
+  "customerId": "C001",
+  "name": "Ahmad Afzal",
+  "contactNumber": "1234567890",
+  "emailAddress": "Ahamd@example.com",
+  "address": "123 Main St, Anytown, Pakistan",
+  "dateOfRegistration": {
+    "$date": "2024-05-19T10:29:23.082Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6649d4839abbaa3c6f8b3a8f"
+  },
+  "customerId": "C002",
+  "name": "Haadi",
+  "contactNumber": "0987654321",
+  "emailAddress": "haadi.smith@example.com",
+  "address": "456 Oak St, Othertown, Pakistan",
+  "dateOfRegistration": {
+    "$date": "2024-05-19T10:29:23.082Z"
+  }
+}]
